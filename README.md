@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pablo120898
+- 👋 Hi, I’m Pablo Ovalle
 - 👀 I’m interested in Astronomy and astrophysics (planetary science)
 - 🌱 I’m currently learning Python for astronomy and astrophysics
 - 💞️ I’m looking to collaborate on ...
